@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 About Me<br>- 🌱 Currently building projects to sharpen my skills and grow as a developer.<br>- 📚 Learning:<br>- Data Structures & Algorithms 🧩<br>- Android Development 📱<br>- Generative AI & Large Language Models 🤖<br>- Machine Learning 📊<br>🎯 Interests<br>- 🧊 Passionate about solving the Rubik’s Cube<br>- Average: 20 seconds<br>- Personal best: 13 seconds ⚡<br>💻 Tech Comfort Zone<br>- 🔹 C++ (strong foundation)<br>- 🔹 Basic Kotlin<br>- 🔹 Python<br>- 🔹 Java<br>- 🔹 SQL<br>🛠️ Current Focus<br>- 📈 Improving coding skills through hands‑on projects<br>- 🤝 Learning from others and collaborating<br>- 🏗️ Building a solid foundation for long‑term growth
+🚀 About Me<br>- 🌱 Currently building projects to sharpen my skills and grow as a developer.<br>- 📚 Learning:<br>- Data Structures & Algorithms 🧩<br>- Android Development 📱<br>- Generative AI & Large Language Models 🤖<br>- Machine Learning 📊<br>🎯 Interests<br>- 🧊 Passionate about solving the Rubik’s Cube<br>- Average: 20 seconds<br>- Personal best: 13 seconds ⚡<br>💻 Tech Comfort Zone<br>- 🔹 C++ (strong foundation)<br>- 🔹 Basic Kotlin<br>- 🔹 Python<br>-  🔹 SQL<br>🛠️ Current Focus<br>- 📈 Improving coding skills through hands‑on projects<br>- 🤝 Learning from others and collaborating<br>- 🏗️ Building a solid foundation for long‑term growth
 
 
 ## 🌐 Socials:
